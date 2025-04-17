@@ -21,7 +21,7 @@ STEP 5 - Stop
 
 
 ## Program:
-Developed by: Piritharaman R
+Developed by: PIRITHARAMAN R
 
 RegisterNumber: 212223230148
 ```
