@@ -31,7 +31,7 @@ data.head()
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/088de46d-4385-40cd-9138-3c5048b45e80)
+![image](https://github.com/user-attachments/assets/a861a4df-ba59-42a4-be81-90e484413011)
 
 ```
 df.info()
@@ -55,8 +55,8 @@ data["salary"]=le.fit_transform(data["salary"])
 data.head()
 ```
 ## Output:
+![image](https://github.com/user-attachments/assets/84bd58ea-9bba-47ba-a588-d021f4275416)
 
-![image](https://github.com/user-attachments/assets/dfec3768-4385-47dd-9ccf-a24ba9338d8b)
 ```
 x=data[["satisfaction_level","last_evaluation","number_project","average_montly_hours","time_spend_company","Work_accident",
 "promotion_last_5years","salary"]]
@@ -94,6 +94,7 @@ accuracy
 ```
 dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
+
 ## Output:
 
 ![image](https://github.com/user-attachments/assets/d2b423d2-f408-4a75-a04e-3740966c16a1)
